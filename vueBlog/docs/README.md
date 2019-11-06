@@ -1,14 +1,14 @@
 ---
 home: true
-heroImage: /hero.png
-actionText: 起步 →
+heroImage: 
+actionText: 开始 →
 actionLink: /quic/引言.html/
 features:
-- title: 简明优先
-  details: 对以 markdown 为中心的项目结构，做最简化的配置，帮助你专注于创作。
-- title: Vue 驱动
-  details: 享用 Vue + webpack 开发环境，在 markdown 中使用 Vue 组件，并通过 Vue 开发自定义主题。
-- title: 性能高效
-  details: VuePress 将每个页面生成为预渲染的静态 HTML，每个页面加载之后，然后作为单页面应用程序(SPA)运行。
-footer: MIT Licensed | Copyright © 2018-present Evan You
+- title: WHY
+  details: 纸上得来终觉浅，绝知此事要躬行。
+- title: HOW
+  details: 阅读完原版翻译后发现并没有及时同步更新，索性翻译了一版加深学习和理解。
+- title: WHAT
+  details: 希望给到同样热爱HTTP的你一点微不足道的帮助。
+footer: MIT Licensed | Copyright © 2019-present Tong Obama
 ---

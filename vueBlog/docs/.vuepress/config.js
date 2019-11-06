@@ -1,9 +1,10 @@
 module.exports = {
     title: 'HTTP/3详解',
-    description: 'Just playing around',
+    description: '同步最新版本',
     themeConfig: {
         nav: [
-          { text: '首页', link: '/' }
+          { text: '首页', link: '/' },
+          { text: 'Github', link: 'https://github.com/Geekhyt' }
         ],
         sidebar: {
           '/quic/': [
