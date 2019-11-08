@@ -1,5 +1,6 @@
 module.exports = {
     title: 'HTTP/3详解',
+    base: '/HTTP3-explained/',
     description: '同步最新版本',
     themeConfig: {
         nav: [
